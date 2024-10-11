@@ -12,7 +12,7 @@ I spent my time doing vulnerability assessments, which was interesting until the
 I love the challenge of problem solving and learning new skills and that feeling you get when you crack a problem. No matter how small or trivial. Every problem cracked is something new. In fact, in coding and in life, the best lessons come from mistakes. So don't be afraid to make them. I'm not and do. But I'm also as determined as anyone to correct mistakes. 
 
 - 🌱 Currently learning: working with Python/Django/Django Rest Framework and Javascript/React at the moment. Plan on learning Typescript (I know basics) another front end framework, and PHP/Laravel in the near future. With .Net as a longer term goal. Mostly using Exercism, Udemy, YouTube and FreeCodeCamp
-- 🔭 Working on: a Django based home finance app and a React based German Shepherd Rescue website (yes, I have one and I'd have more if I could!), whilst updating a ToDo app built in a recently completed coding bootcamp. Plus a few smaller challenges.
+- 🔭 Working on: a Django based home finance app and a React based German Shepherd Rescue website (yes, I have one and I'd have more if I could!), whilst updating a ToDo app built in a recently completed coding bootcamp. Plus a few smaller challenges. I've also recently enrolled in CS50 to bolster my CS knowledge. I actually first enrolled several years ago, but life took over. They update this course every year and it is superb.
 - 🌍 Languages: HTML, CSS, Tailwind CSS, Javascript, React, Python, Django and Django Rest Framework
 - 📫 How to reach me: **[your email address or other contact information]**
 
@@ -20,11 +20,17 @@ I love the challenge of problem solving and learning new skills and that feeling
 ## My Skills 🧠
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django Rest Framework](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
