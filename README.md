@@ -7,26 +7,24 @@ Experience wise, I'm a junior developer (for now) but have experience with a num
 I have a litte experience with C too. Work experience, I have over 40 years, in public and private sector, nearly 30 as a Police Officer. 
 
 A few years back I qualified as a CISSP in cyber security but technical roles were hard to find with my level of technical skills then, so
-I spent my time doing vulnerability assessments, which was interesting until the point of filling out spreadsheets and powerpoints. But I knew I wanted 
-something more technical to challenge the grey matter so I gave up cyber security and turned to coding. And I love it!
+I spent my time doing vulnerability assessments, which was interesting until the point of filling out spreadsheets and powerpoints. But I knew I wanted something more technical to challenge the grey matter so I gave up cyber security and turned to coding. And I love it!
 
+I love the challenge of problem solving and learning new skills and that feeling you get when you crack a problem. No matter how small or trivial. Every problem cracked is something new. In fact, in coding and in life, the best lessons come from mistakes. So don't be afraid to make them. I'm not and do. But I'm also as determined as anyone to correct mistakes. 
 
-
-I love the challenge of problem solving and learning new skills.  and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌱 Currently learning: working with Python/Django/Django Rest Framework and Javascript/React at the moment. Plan on learning Typescript (I know basics) another front end framework, and PHP/Laravel in the near future. With .Net as a longer term goal. Mostly using ![Exercism] (https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+- 🔭 Working on: a Django based home finance app and a React based German Shepherd Rescue website (yes, I have one and I'd have more if I could!), whilst updating a ToDo app built in a recently completed coding bootcamp. Plus a few smaller challenges.
+- 🌍 Languages: HTML, CSS, Tailwind CSS, Javascript, React, Python, Django and Django Rest Framework
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+
 
 ## My Skills 🧠
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -46,6 +44,6 @@ I love the challenge of problem solving and learning new skills.  and collaborat
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+
