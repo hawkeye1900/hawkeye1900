@@ -1,5 +1,5 @@
 
-I'm a passionate about a lot of things, not just coding. But coding is the thing that takes up most of my time, except my dog of course.
+I'm passionate about a lot of things, not just coding. But coding is the thing that takes up most of my time, except my dog of course.
 Experience wise, I'm a junior developer (for now) but have experience with a number of technologies, mainly HTML, CSS, Python, Django, Javascript and React. I have a litte experience with C too. Work experience, I have over 40 years, in public and private sector, nearly 30 as a Police Officer. So I've seen a bit.
 
 A few years back I qualified as a CISSP in cyber security but technical roles were hard to find with my level of technical skills then, so
