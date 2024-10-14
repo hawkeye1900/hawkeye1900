@@ -1,6 +1,6 @@
 I'm relatively new to coding, and even newer to GitHub, but like many, I have found in coding, a new passion. There's a lot of things I love doing, not just coding, but it is the thing that takes up most of my time, except my dog of course :heart:.  
 
-Experience wise, I'm a junior developer (for now) but have experience with a number of technologies, mainly HTML, CSS, Python, Django, Javascript and React. I have a little experience with C too. Work experience, I have over 40 years, in public and private sector, nearly 30 as a Police Officer. So, I've seen a bit.
+Experience wise, I'm a junior developer (for now) but have experience with a number of technologies, mainly HTML, CSS, Python, Django, Javascript and React. I have a little experience with C too. Work experience, I have over 40 years, in public and private sector, nearly 30 as a Police Officer. So, I've seen a bit, done some really interesting stuff and worked with some of the most productive and proactive people possible, just trying to catch the bad guys.
 
 A few years back I qualified as a CISSP in cyber security, but technical roles were hard to find with my level of technical skills then, so
 I spent my time doing vulnerability assessments, which was interesting until the point of filling out spreadsheets and PowerPoints. But I knew I wanted something more technical to challenge the grey matter, so I gave up cyber security and turned to coding. And I love it!
