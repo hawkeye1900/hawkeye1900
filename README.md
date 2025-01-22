@@ -2,19 +2,18 @@ I love the challenge of problem solving and learning new skills and that feeling
 
 For about 40 years, in public and private sector, I worked in diverse roles where solving problems was the aim. Nearly 30 of those years was as a Police Officer, where I did some really interesting and cool things, and some things that I wouldn’t want anyone else to have to do. Fortunately, many of those things most people will never do. I’ve also worked with some of the most productive and proactive people possible, just trying to catch the bad guys. 
 
-A few years back I qualified as a CISSP in cyber security, but technical roles were hard to find with my level of technical skills then, so I spent my time doing cyber vulnerability assessments for the MOD, which was interesting until the point of filling out spreadsheets and PowerPoints. But I knew I wanted something more technical to challenge the grey matter, so I gave up cyber security and turned to coding. And I love it!
+A few years back I qualified as a CISSP in cyber security, but technical roles were hard to find with my level of technical skills then, so I spent my time doing cyber vulnerability assessments for the MOD, which was interesting until the point of filling out spreadsheets and PowerPoints. But I knew I wanted something more technical to challenge the grey matter, so I gave up cyber security and began looking at other areas of IT, in particular networks and ethical hacking.
 
 I've been coding for around 18months, mostly learning from courses and doing some home projects and a handful of free websites I did for some local businesses. In coding I have found a new passion, though I love IT in general. There are lots of things I love doing, not just coding, but it is the thing that takes up most of my time, except my dog of course ❤️.
 
 I have experience with a number of technologies, mainly HTML, CSS, Python, Django, Javascript and React. I have a little experience with C too. 
 
-•	 Currently working with Python/Django/Django Rest Framework and Javascript/React at the moment. Plan on properly learning Typescript (I know basics), another front-end framework maybe Vue, and PHP/Laravel in the near future. I’ve also started learning C#/.NET. Mostly using Exercism, Udemy, YouTube and FreeCodeCamp to learn
-•	🔭 Working on a Django based home finance app and a React based German Shepherd Rescue website (yes, I have one and I'd have more if I could!), whilst also updating a Django/React ToDo app. Plus a few smaller challenges. I've also recently enrolled in Harvard's CS50 course (https://pll.harvard.edu/course/cs50-introduction-computer-science) to bolster my Computer Science knowledge. 
+•	 Currently working with Python/Django/Django Rest Framework and Javascript/React at the moment. Plan on properly learning Typescript (I know basics), another front-end framework maybe Vue, and PHP/Laravel in the near future. Mostly using Exercism, Udemy, YouTube and FreeCodeCamp to learn
 •	🌍 Languages: HTML, CSS, Tailwind CSS, Javascript, React, Python, Django and Django Rest Framework
 
-•	What else do I like doing? Reading, about history, especially military history, and also Russian history (there can be no doubt the impact Russia has had on Europe and further afield since the early 20th Century). 
+•	What else do I like doing? Reading, about history, especially military history, and also Russian history. 
 
-•	Music, from Django Reinhardt to Metallica, but very little in the way of chart music. Except Kate Bush, the greatest female singer songwriter ever (IMHO). Others include John Coltrane, Sonny Rollins, Miles Davis, Larry Carlton, Pat Metheny, Al Di Meola, Rainbow, Deep Purple, Dream Theater and of course, Rush. I could go on......Did I mention I have a dog? Another of my pastimes, walking and playing with her. She needs a lot of attention as she's a rescue. 
+•	Music, from Django Reinhardt to Metallica, but very little in the way of chart music. Except Kate Bush, the greatest female singer songwriter ever (IMHO). Others include John Coltrane, Sonny Rollins, Miles Davis, Larry Carlton, Pat Metheny, Al Di Meola, Rainbow, Deep Purple, Dream Theater and of course, Rush. I could go on......
 
 •	Then there’s live shows, comedy, musicals, film and TV. MASH is my favourite comedy, but many others rank close. Favourite actors, Alan Alda, Al Pacino, Robert De Niro, Cint Eastwood, Humphry Bogart, Cary Grant
 
